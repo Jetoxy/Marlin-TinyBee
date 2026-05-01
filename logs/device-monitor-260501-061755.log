@@ -1,0 +1,76 @@
+06:17:55.234 > ets Jun  8 2016 00:22:57
+06:17:55.234 > 
+06:17:55.234 > rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+06:17:55.234 > configsip: 0, SPIWP:0xee
+06:17:55.234 > clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+06:17:55.234 > mode:DIO, clock div:2
+06:17:55.234 > load:0x3fff0018,len:4
+06:17:55.234 > load:0x3fff001c,len:1044
+06:17:55.234 > load:0x40078000,len:10124
+06:17:55.234 > load:0x40080400,len:5828
+06:17:55.234 > entry 0x400806a8
+06:17:55.234 > start
+06:17:55.234 >  External Reset
+06:17:55.234 >  Brown out Reset
+06:17:55.234 >  Watchdog Reset
+06:17:55.234 > Marlin 2.1.2.7
+06:17:55.234 > echo: Last Updated: 2026-01-22 | Author: (none, default config)
+06:17:55.234 > echo: Compiled: May  1 2026
+06:17:55.234 > echo: Free Memory: 266272  PlannerBufferBytes: 1344
+06:17:55.234 > echo:WiFi station started
+06:17:55.234 > echo:Connecting Sin
+06:17:55.234 > echo:Connecting.
+06:17:55.234 > echo:Connecting..
+06:17:55.234 > echo:V88 stored settings retrieved (774 bytes; crc 60419)
+06:17:55.234 > echo:Connecting...
+06:17:55.234 > echo:Connecting....
+06:17:55.234 > echo:Connecting.
+06:17:55.234 > echo:Connected
+06:17:55.234 > echo:192.168.77.100
+06:17:55.234 > echo:OTA service started
+06:17:55.234 > echo:mDNS service (marlinesp) started
+06:17:55.234 > echo:SSDP service started
+06:17:55.234 > echo:HTTP server started
+06:17:55.234 > echo:192.168.77.100
+06:17:55.234 > echo:No SD card
+06:17:55.234 > echo:No SD card
+06:18:34.420 > ets Jun  8 2016 00:22:57
+06:18:34.420 > 
+06:18:34.420 > rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+06:18:34.425 > configsip: 0, SPIWP:0xee
+06:18:34.428 > clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+06:18:34.434 > mode:DIO, clock div:2
+06:18:34.436 > load:0x3fff0018,len:4
+06:18:34.439 > load:0x3fff001c,len:1044
+06:18:34.441 > load:0x40078000,len:10124
+06:18:34.442 > load:0x40080400,len:5828
+06:18:34.444 > entry 0x400806a8
+06:18:34.906 > start
+06:18:34.906 >  External Reset
+06:18:34.906 >  Brown out Reset
+06:18:34.908 >  Watchdog Reset
+06:18:34.908 > Marlin 2.1.2.7
+06:18:34.910 > echo: Last Updated: 2026-01-22 | Author: (none, default config)
+06:18:34.917 > echo: Compiled: May  1 2026
+06:18:34.920 > echo: Free Memory: 266272  PlannerBufferBytes: 1344
+06:18:35.147 > echo:WiFi station started
+06:18:35.147 > echo:Connecting Sin
+06:18:35.151 > echo:Connecting.
+06:18:35.648 > echo:Connecting..
+06:18:35.669 > echo:V88 stored settings retrieved (774 bytes; crc 60419)
+06:18:36.147 > echo:Connecting...
+06:18:36.648 > echo:Connecting....
+06:18:37.147 > echo:Connecting.
+06:18:37.479 > echo:Connected
+06:18:37.479 > echo:192.168.77.100
+06:18:37.780 > echo:OTA service started
+06:18:37.780 > echo:mDNS service (marlinesp) started
+06:18:37.783 > echo:SSDP service started
+06:18:37.786 > echo:HTTP server started
+06:18:38.690 > echo:192.168.77.100
+06:18:41.591 > echo:No SD card
+06:18:52.728 > echo:SD card released
+06:18:57.414 > echo:SD card ok
+06:19:16.884 > echo:No SD card
+06:21:15.605 > echo:No SD card
+06:21:29.985 > echo:No SD card
