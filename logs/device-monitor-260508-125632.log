@@ -1,0 +1,49 @@
+12:56:48.713 > ets Jun  8 2016 00:22:57
+12:56:48.713 > 
+12:56:48.713 > rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+12:56:48.718 > configsip: 0, SPIWP:0xee
+12:56:48.720 > clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+12:56:48.726 > mode:DIO, clock div:2
+12:56:48.728 > load:0x3fff0018,len:4
+12:56:48.731 > load:0x3fff001c,len:1044
+12:56:48.734 > load:0x40078000,len:10124
+12:56:48.734 > load:0x40080400,len:5828
+12:56:48.737 > entry 0x400806a8
+12:56:49.204 > �start
+12:56:49.204 >  External Reset
+12:56:49.204 >  Brown out Reset
+12:56:49.207 >  Watchdog Reset
+12:56:49.207 > Marlin 2.1.2.7
+12:56:49.210 > echo: Last Updated: 2026-01-22 | Author: (none, default config)
+12:56:49.215 > echo: Compiled: May  8 2026
+12:56:49.218 > echo: Free Memory: 262016  PlannerBufferBytes: 1344
+12:56:49.423 > echo:V88 stored settings retrieved (790 bytes; crc 42548)
+12:56:49.448 > echo:WiFi station started
+12:56:49.448 > echo:Connecting Sin
+12:56:49.452 > echo:Connecting.
+12:56:49.949 > echo:Connecting..
+12:56:50.449 > echo:Connecting...
+12:56:50.949 > echo:Connecting....
+12:56:51.449 > echo:Connecting.
+12:56:51.790 > echo:Connected
+12:56:51.790 > echo:192.168.77.100
+12:56:52.081 > echo:OTA service started
+12:56:52.081 > echo:mDNS service (Sin3D) started
+12:56:52.084 > echo:SSDP service started
+12:56:52.091 > echo:HTTP server started
+12:56:57.644 > echo:192.168.77.100
+12:56:58.156 > echo:SD card ok
+12:57:06.773 > echo:Filament runout ON ; Distance 25.00mm ; Host handling OFF
+12:57:06.776 > ok
+12:57:19.949 > Reporting endstop status
+12:57:19.949 > x_min: open
+12:57:19.952 > y_min: open
+12:57:19.952 > z_min: open
+12:57:19.952 > filament: open
+12:57:19.954 > ok
+12:57:36.677 > Reporting endstop status
+12:57:36.677 > x_min: open
+12:57:36.679 > y_min: open
+12:57:36.679 > z_min: open
+12:57:36.679 > filament: TRIGGERED
+12:57:36.683 > ok
